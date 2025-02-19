@@ -25,4 +25,6 @@ dependencies = [
     "sentence-transformers>=3.4.1",
     "transformers[torch]>=4.48.3",
     "wandb>=0.19.6",
+    "notebook",
+    "ragas"
 ]
